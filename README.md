@@ -58,7 +58,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Now go to cloned directory and run `zphisher.sh` -
   ```
-  $ cd zphisher
+  $ cd phisher
   $ bash zphisher.sh
   ```
 
